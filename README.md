@@ -1,2 +1,2 @@
 # codsoft
-my internship products
+my internship projects
